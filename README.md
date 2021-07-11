@@ -1,0 +1,1 @@
+# Parallel-Corpus-for-Low-Resourced-Lanuages
